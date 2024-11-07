@@ -21,6 +21,7 @@ const Work = () => {
             text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
         },
     ];
+    
     return (
         <div className="work-section-wrapper">
             <div className="work-section-top">

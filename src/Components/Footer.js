@@ -13,10 +13,10 @@ const Footer = () => {
                     <img src={Logo} alt="" />
                 </div>
                 <div className="footer-icons">
-                    <a href="#"><BsTwitter/></a>
-                    <a href="#"><SiLinkedin/></a>
-                    <a href="#"><BsYoutube/></a>
-                    <a href="#"><FaFacebookF/></a>
+                    <a href="https://x.com/"><BsTwitter/></a>
+                    <a href="https://www.linkedin.com/in/enrico-gollner-a91972219/"><SiLinkedin/></a>
+                    <a href="https://www.youtube.com/"><BsYoutube/></a>
+                    <a href="https://www.facebook.com/"><FaFacebookF/></a>
                 </div>
             </div>
             <div className="footer-section-two">
